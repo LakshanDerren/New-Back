@@ -3,9 +3,10 @@
   "version": "1.0.0",
   "main": "index.js",
   "type": "module",
-  "scripts": {
-    "start": "node index.js"
-  },
+"scripts": {
+   "build": "echo 'No build necessary' && npm start",
+   "start": "node index.js"
+},
   "keywords": [],
   "author": "",
   "license": "ISC",
